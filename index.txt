@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="propic.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="propic.jpeg" alt="Your Profile Picture" class="profile-picture">
             <h1>V.Poojitha</h1>
             <p>BCA ( Current pursuing )</p>
         </div>
@@ -159,7 +159,7 @@ put my learning and skills to good use while contributing to the company’s suc
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="resume.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="Resume.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
