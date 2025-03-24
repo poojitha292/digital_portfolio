@@ -147,7 +147,7 @@ put my learning and skills to good use while contributing to the company’s suc
         <div class="section-content">
             <h2>Intenship</h2>
             <ul>
-                <li><a href="E:\gitup\intenship">FULL STACK DEVELOPER</a></li>
+                <li><a href="E:\gitup\intenship.pdf">FULL STACK DEVELOPER</a></li>
                
                 <!-- Add more project links here -->
             </ul>
@@ -159,7 +159,7 @@ put my learning and skills to good use while contributing to the company’s suc
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="Resume.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="E:\gitup\.Resume.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
